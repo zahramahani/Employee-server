@@ -1,0 +1,49 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ajv": "^6.10.2",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "crypto": "^1.0.1",
+    "dot": "^1.1.2",
+    "dotenv": "^8.0.0",
+    "env": "0.0.2",
+    "find-my-way": "^2.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "lokijs": "^1.5.7",
+    "mocha": "^6.2.0",
+    "mongodb": "^3.3.2",
+    "nodemon": "^1.19.1",
+    "password-sheriff": "^1.1.0",
+    "pg": "^7.12.0",
+    "q": "^1.5.1",
+    "query-string": "^6.8.1",
+    "raw-body": "^2.4.1",
+    "static-serve": "^0.0.1",
+    "url": "^0.11.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-standard": "^13.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://igit.partdp.ir/softwre-development-internship/summer-98/partiya/todo-server.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
